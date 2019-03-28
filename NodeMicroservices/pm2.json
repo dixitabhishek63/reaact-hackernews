@@ -1,0 +1,8 @@
+{
+    "name" : "APIs",
+    "script" : "index.js",
+    "watch" : "api",
+    "cwd"	: ".", 
+    "instances" : "2",
+    "exec_mode" : "cluster"
+    }
